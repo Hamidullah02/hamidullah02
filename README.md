@@ -2,7 +2,7 @@
 [![MasterHead](https://camo.githubusercontent.com/89b4c6bbdd401f05e6f3b4a6bfb756ae75ec4bccb12ae3b57d42a0c050781183/68747470733a2f2f6d656469612e67726170686173736574732e636f6d2f694f48566b775a4a53524f4f394c616670486958)](https://iam-hamid.web.app/)
 <h1 align="center">Hi 👋, I'm Kazi Hamid Ullah</h1>
 <h3 align="center">A passionate app developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/fetch/w300-preview/f3/f3692879508afa94050f8b3611773e3f.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidullah02&label=Profile%20views&color=0e75b6&style=flat" alt="hamidullah02" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
